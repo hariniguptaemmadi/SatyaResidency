@@ -22,7 +22,7 @@ export function Hero() {
         </p>
 
         <a
-          href="public/assets/explore.html"
+          href="/assets/explore.html"
           target="_blank"
           rel="noopener noreferrer"
           class="mt-8 bg-[#d4af6a]
