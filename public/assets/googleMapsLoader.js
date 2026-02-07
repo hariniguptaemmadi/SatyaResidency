@@ -1,10 +1,7 @@
 export function loadGoogleMaps(callback = "initMap") {
-  const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
+  const apiKey = "AIzaSyAJEehBj-zJjgDcKlqRn6ZnDm9b5DvJdno";
 
-  if (!apiKey) {
-    console.error("VITE_GOOGLE_MAPS_API_KEY is missing");
-    return;
-  }
+  if (window.google && window.google.maps) return;
 
   const script = document.createElement("script");
   script.src = `https://maps.googleapis.com/maps/api/js?key=${apiKey}&callback=${callback}`;
