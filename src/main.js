@@ -1,4 +1,4 @@
-import './style.css'
+
 
 import { Navbar } from './components/Navbar'
 import { Booking } from './components/BookingBar'
