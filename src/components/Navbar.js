@@ -8,13 +8,13 @@ export function Navbar() {
         </p>
 
         <nav class="mt-5 flex justify-center gap-10 text-sm text-[#6b6b6b] relative">
-          <a href="/ourhotel.html" target="_blank" rel="noopener noreferrer">Our Hotel</a>
+          <a href="src/assets/ourhotel.html" target="_blank" rel="noopener noreferrer">Our Hotel</a>
 
-          <a href="/rooms.html" target="_blank" rel="noopener noreferrer">
+          <a href="src/assets/rooms.html" target="_blank" rel="noopener noreferrer">
             Rooms & Rates
           </a>
 
-          <a href="/explore.html" target="_blank" rel="noopener noreferrer">
+          <a href="src/assets/explore.html" target="_blank" rel="noopener noreferrer">
             Facilities
           </a>
 
