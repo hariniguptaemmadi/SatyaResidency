@@ -2,7 +2,7 @@ export function Hero() {
   return `
     <section
       class="relative h-[60vh] bg-center bg-cover"
-      style="background-image: url('photos/WhatsApp Image 2026-02-06 at 20.58.49 (11).jpeg');">
+      style="background-image: url('/photos/WhatsApp Image 2026-02-06 at 20.58.49 (11).jpeg');">
 
       <!-- dark overlay for text readability -->
       <div class="absolute inset-0 bg-black/40"></div>
