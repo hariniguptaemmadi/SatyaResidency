@@ -14,7 +14,7 @@ export function Navbar() {
             Rooms & Rates
           </a>
 
-          <a href="src/assets/explore.html" target="_blank" rel="noopener noreferrer">
+          <a href="/src/assets/explore.html" target="_blank" rel="noopener noreferrer">
             Facilities
           </a>
 
