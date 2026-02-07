@@ -2,7 +2,7 @@ export function Hero() {
   return `
     <section
       class="relative h-[60vh] bg-center bg-cover"
-      style="background-image: url('/src/photos/Intro.jpeg');">
+      style="background-image: url('/photos/Intro.jpeg');">
 
       <!-- dark overlay for text readability -->
       <div class="absolute inset-0 bg-black/40"></div>
@@ -22,7 +22,7 @@ export function Hero() {
         </p>
 
         <a
-          href="src/assets/explore.html"
+          href="public/assets/explore.html"
           target="_blank"
           rel="noopener noreferrer"
           class="mt-8 bg-[#d4af6a]
