@@ -38,6 +38,7 @@ export function Navbar() {
               <div class="px-5 py-4 space-y-2 text-center">
                 <p class="font-medium">Contact Information</p>
                 <div class="h-px bg-gray-200"></div>
+                <p class="tracking-wide">+91 91000 22164</p>
                 <p class="tracking-wide">+91 92471 55900</p>
               </div>
             </div>
